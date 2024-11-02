@@ -1,1 +1,1 @@
-# odin-recipes
+# This is my first real go at an HTML site, with no CSS styling for a recipe page. This code follows instructions from The Odin Project.
